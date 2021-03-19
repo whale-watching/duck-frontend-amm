@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Ducky Finance",
+      "symbol": "DUCKY",
+      "address": "0x94dF36a61B489c95E66A830c366528FF063687b4",
       "chainId": 56,
       "decimals": 18
     },
